@@ -58,4 +58,4 @@ Motor Driver Control Pins - Left Motor 1
 
 *Note:* The Block Diagram dosen't show thew Control Pins (Refer to above)
 
-![Droiid Block Diagram](arduino-wheel-robot-diagram_bb.png)
+![Droiid Block Diagram](arduino-wheel-robot-diagram.png)
